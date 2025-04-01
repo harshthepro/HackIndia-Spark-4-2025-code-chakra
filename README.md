@@ -3,7 +3,7 @@
 FundChainX is a decentralized crowdfunding platform that allows students to raise funds for their projects securely using blockchain technology. Built on Ethereum, it leverages smart contracts to ensure transparency, security, and immutability of transactions.
 
  Features
-
+![image alt](https://github.com/harshthepro/HackIndia-Spark-4-2025-code-chakra/blob/01a1e913073f9367fc137ad7f5e3a6a5fa850007/imgHI.png)
 Secure crowdfunding with smart contracts
 
 Transparent and immutable transactions
